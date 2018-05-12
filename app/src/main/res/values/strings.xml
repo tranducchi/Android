@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecondProject</string>
+    <string name="login_for_us_facebook">Login For Us Facebook</string>
+    <string name="nh_p_t_n_t_i_kho_n">Nhập tên tài khoản</string>
+    <string name="i_n_m_t_kh_u">Điền Mật Khẩu</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+</resources>
