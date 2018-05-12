@@ -3,4 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="bg_fb">#4C6BA4</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="bg_button">#223b73</color>
 </resources>
